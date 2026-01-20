@@ -8,3 +8,5 @@ Things take a twist for the worse, however, as the docking procedure fails. You 
 All alone, with a damaged suit and no weapons, you must now scout Artimes to make way for backup. Good luck, Paladin!
 
 Made with Bitsy for UCF's DIG 4715 'Game Production' course. 
+
+![Screenshot One](Screenshots/Screenshot One.png)
