@@ -9,4 +9,4 @@ All alone, with a damaged suit and no weapons, you must now scout Artimes to mak
 
 Made with Bitsy for UCF's DIG 4715 'Game Production' course. 
 
-![Screenshot One](Screenshots/Screenshot One.png)
+[Screenshot One](Screenshots/Screenshot One.png)
