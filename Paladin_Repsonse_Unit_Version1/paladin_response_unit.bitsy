@@ -1,0 +1,1180 @@
+Paladin Response Unit
+
+# BITSY VERSION 8.14
+
+! VER_MAJ 8
+! VER_MIN 14
+! ROOM_FORMAT 1
+! DLG_COMPAT 0
+! TXT_MODE 0
+
+PAL 1
+0,0,0
+33,3,252
+255,255,255
+NAME Starter
+
+PAL 2
+0,0,0
+25,255,4
+255,255,255
+NAME Entry
+
+PAL 3
+0,0,0
+255,4,11
+0,0,0
+NAME End
+
+PAL 4
+0,0,0
+255,3,229
+255,255,255
+NAME North
+
+PAL 5
+0,0,0
+242,255,3
+255,255,255
+NAME Eastern
+
+PAL 6
+0,0,0
+255,4,11
+255,255,255
+NAME Southern
+
+ROOM 0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,h,a,b,0,0,0,0,0,0
+h,a,a,a,a,a,a,g,0,j,a,a,a,a,a,b
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d,e,e,e,e,e,e,e,e,e,e,e,e,e,e,i
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME Starter Room
+EXT 15,6 1 0,6
+EXT 15,7 1 0,7
+PAL 1
+TUNE 4
+
+ROOM 1
+0,0,0,0,0,h,a,a,a,a,a,a,a,a,a,b
+0,0,0,0,0,f,0,0,0,0,0,0,0,0,0,n
+0,0,0,0,0,f,0,0,0,0,0,0,0,0,0,n
+0,0,0,0,0,f,0,0,0,0,0,0,0,0,0,n
+0,0,0,0,0,f,0,0,0,0,0,0,0,0,0,n
+c,a,a,a,a,g,0,0,0,0,0,0,0,0,0,o
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d,e,e,e,e,l,0,0,0,0,0,0,0,0,0,p
+0,0,0,0,0,f,0,0,0,0,0,0,0,0,0,n
+0,0,0,0,0,f,0,0,0,0,0,0,0,0,0,n
+0,0,0,0,0,f,0,0,0,0,0,0,0,0,0,n
+0,0,0,0,0,f,0,0,0,0,0,0,0,0,0,n
+0,0,0,0,0,f,0,0,0,0,0,0,0,0,0,n
+0,0,0,0,0,f,0,0,0,0,0,0,0,0,0,n
+0,0,0,0,0,d,e,e,e,e,e,e,e,e,e,i
+NAME Entry One
+EXT 0,6 0 15,6
+EXT 0,7 0 15,7
+EXT 15,6 3 0,6
+EXT 15,7 3 0,7
+PAL 2
+TUNE 4
+
+ROOM 2
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,k,k,k,0,0,0,0,0,0,0,0,k,k,k,0
+0,k,m,k,k,0,0,0,0,0,0,k,k,m,k,0
+0,k,k,m,k,k,0,0,0,0,k,k,m,k,k,0
+0,0,k,k,m,k,k,0,0,k,k,m,k,k,0,0
+0,0,0,k,k,m,k,0,0,k,m,k,k,0,0,0
+0,0,0,0,k,k,k,0,0,k,k,k,0,0,0,0
+0,0,0,0,0,k,k,0,0,k,k,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME Ending
+END b 7,11
+END b 6,12
+END b 7,13
+END b 8,12
+PAL 3
+
+ROOM 3
+c,a,a,a,a,a,a,a,b,0,n,0,0,f,0,0
+f,0,0,0,0,0,0,0,n,0,n,0,0,f,0,0
+f,0,0,0,0,0,0,0,n,0,n,0,0,f,0,0
+f,0,0,0,0,0,0,0,n,0,n,0,0,f,0,0
+f,0,0,0,0,0,0,0,n,0,n,0,0,f,0,0
+g,0,0,0,0,0,0,0,o,a,q,0,0,s,a,b
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n
+l,0,0,0,0,0,0,0,0,0,0,0,0,0,0,o
+f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,p
+f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n
+f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n
+f,0,0,0,0,0,0,0,0,0,0,0,0,0,0,n
+d,e,e,e,e,e,e,e,e,e,l,0,y,r,e,i
+NAME Entry Two
+EXT 0,6 1 15,6
+EXT 0,7 1 15,7
+EXT 11,0 4 11,15
+EXT 12,0 4 12,15
+EXT 15,9 6 0,6
+EXT 15,10 6 0,7
+EXT 11,15 8 7,0 DLG j
+PAL 2
+TUNE 4
+
+ROOM 4
+0,0,0,0,0,0,0,0,0,0,f,0,0,n,0,0
+0,0,0,0,0,0,0,0,0,0,f,0,0,n,0,0
+0,0,0,0,m,0,m,0,0,0,f,0,0,n,0,0
+0,0,0,0,0,0,0,0,0,0,f,0,0,n,0,0
+0,0,0,0,0,0,0,0,0,0,f,0,0,n,0,0
+0,0,0,0,m,0,0,0,m,0,f,0,0,n,0,0
+0,0,0,0,0,m,0,m,0,0,f,0,0,n,0,0
+0,m,0,m,0,0,0,0,0,0,f,0,0,n,0,0
+0,0,0,0,0,0,0,0,0,0,f,0,0,n,0,0
+0,0,0,0,0,0,0,0,0,0,f,0,0,n,0,0
+0,0,0,0,0,m,0,m,0,0,f,0,0,n,0,0
+0,m,0,m,0,0,0,0,0,0,f,0,0,n,0,0
+0,0,0,0,0,0,0,0,0,0,f,0,0,n,0,0
+0,0,0,0,m,0,m,0,0,0,f,0,0,n,0,0
+0,0,0,0,0,0,0,0,0,0,f,0,0,n,0,0
+0,0,0,0,0,0,0,0,0,0,f,0,0,n,0,0
+NAME Northern One
+EXT 11,15 3 11,0
+EXT 12,15 3 12,0
+EXT 11,0 5 11,15
+EXT 12,0 5 12,15
+PAL 4
+TUNE 4
+
+ROOM 5
+0,0,0,m,0,m,0,0,0,0,0,0,m,0,m,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,c,a,a,a,a,a,a,a,a,a,a,a,b,0
+0,0,f,0,0,0,0,0,0,0,0,0,0,0,n,0
+0,0,f,0,0,0,0,0,0,0,0,0,0,0,n,0
+0,0,f,0,0,0,0,0,0,0,0,0,0,0,n,0
+0,0,f,0,0,0,0,0,0,0,0,0,0,0,n,0
+0,0,f,0,0,0,0,0,0,0,0,0,0,0,n,0
+0,0,f,0,0,0,0,0,0,0,0,0,0,0,n,0
+0,0,f,0,0,0,0,0,0,0,0,0,0,0,n,0
+0,0,f,0,0,0,0,0,0,0,0,0,0,0,n,0
+0,0,f,0,0,0,0,0,0,0,0,0,0,0,n,0
+0,0,d,e,e,e,e,e,e,e,l,0,0,r,i,0
+0,0,0,0,0,0,0,0,0,0,f,0,0,n,0,0
+0,m,0,m,0,0,0,0,0,0,f,0,0,n,0,0
+0,0,0,0,0,0,m,0,m,0,f,0,0,n,0,0
+NAME Northern Two
+ITM 2 3,8
+EXT 11,15 4 11,0
+EXT 12,15 4 12,0
+PAL 4
+TUNE 4
+
+ROOM 6
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,c,a,a,a,a,a,a,a,a,a,a,b,0,0
+0,0,f,0,0,0,0,0,0,0,0,0,0,n,0,0
+0,0,f,0,0,0,0,0,0,0,0,0,0,n,0,0
+a,a,g,0,0,0,0,0,0,0,0,0,0,n,0,0
+0,0,0,0,0,0,r,e,e,e,e,e,e,i,0,0
+0,0,0,0,0,0,j,a,a,a,a,a,a,b,0,0
+a,a,t,0,0,0,0,0,0,0,0,0,0,n,0,0
+0,0,f,0,0,0,0,0,0,0,0,0,0,n,0,0
+0,0,f,0,0,0,0,0,0,0,0,0,0,n,0,0
+0,0,f,0,0,0,0,0,0,0,0,0,0,n,0,0
+0,0,f,0,0,0,0,0,0,0,0,0,0,n,0,0
+0,0,d,e,e,e,e,e,e,e,e,e,e,i,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME Eastern One
+ITM 3 12,10
+EXT 0,6 3 15,9
+EXT 0,7 3 15,10
+PAL 5
+TUNE 4
+
+ROOM 8
+0,0,0,0,0,0,f,0,0,n,0,0,0,0,0,0
+0,0,0,0,0,0,f,0,0,n,0,m,0,0,0,m
+0,m,0,m,0,0,f,0,0,n,0,m,m,0,m,m
+0,0,0,0,0,0,f,0,0,n,0,0,0,0,0,0
+0,0,0,0,0,0,f,0,0,n,0,m,0,m,0,0
+0,m,0,m,0,0,f,0,0,n,0,0,0,0,0,0
+m,0,0,0,m,0,f,0,0,n,0,0,0,m,0,m
+0,0,0,0,0,0,f,v,v,n,0,0,0,0,0,0
+0,m,0,m,0,0,f,w,x,n,0,m,0,0,0,m
+0,0,0,0,0,0,f,0,0,n,0,0,m,0,m,0
+m,0,m,0,0,0,f,0,0,n,0,0,0,0,0,0
+0,0,0,0,0,0,f,0,0,n,0,0,m,0,m,0
+m,m,0,m,m,0,f,0,0,n,0,0,0,0,0,0
+0,m,0,m,0,0,f,0,0,n,0,m,0,m,0,0
+0,0,0,0,0,0,f,0,0,n,0,0,0,0,0,0
+0,0,0,0,0,0,f,0,y,n,0,0,0,m,0,m
+NAME Southern
+EXT 7,0 3 11,15
+EXT 7,15 2 7,12 DLG k
+PAL 6
+
+TIL a
+11111111
+11111111
+00011000
+11000011
+11111111
+11111111
+11111111
+11111111
+NAME Wall One
+WAL true
+
+TIL b
+11111111
+11111111
+00000011
+11111011
+11111011
+11111011
+11111011
+11111011
+NAME Corner One
+WAL true
+
+TIL c
+11111111
+11111111
+11000000
+11011111
+11011111
+11011111
+11011111
+11011111
+NAME Corner Two
+WAL true
+
+TIL d
+11011111
+11011111
+11011111
+11011111
+11011111
+11000000
+11111111
+11111111
+NAME Corner Three
+WAL true
+
+TIL e
+11111111
+11111111
+11111111
+11111111
+11000011
+00011000
+11111111
+11111111
+NAME Wall Two
+WAL true
+
+TIL f
+11011111
+11011111
+11001111
+11101111
+11101111
+11001111
+11011111
+11011111
+NAME Wall Three
+WAL true
+
+TIL g
+11011111
+11010001
+00010001
+11111111
+11111011
+10000001
+11111011
+11111111
+>
+11011111
+11010001
+00010001
+11111111
+11111011
+10000001
+11111011
+11111111
+NAME Corner Four
+WAL true
+
+TIL h
+11111111
+11111111
+11000000
+11011111
+11011111
+11011111
+11011111
+11011111
+NAME Corner Five
+WAL true
+
+TIL i
+11111011
+11111011
+11111011
+11111011
+11111011
+00000011
+11111111
+11111111
+NAME Corner Six
+WAL true
+
+TIL j
+11111011
+10001011
+10001000
+11111111
+11011111
+10000001
+11011111
+11111111
+NAME Corner Seven
+WAL true
+
+TIL k
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME Monster One
+WAL true
+
+TIL l
+11111111
+11111011
+10000001
+11111011
+11111111
+00010101
+11011011
+11010101
+NAME Corner Eight
+WAL true
+
+TIL m
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+>
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME Monster Two
+WAL true
+
+TIL n
+11111011
+11111011
+11110011
+11110111
+11110111
+11110011
+11111011
+11111011
+NAME Wall Nine
+WAL true
+
+TIL o
+11111011
+11011011
+10101000
+10001111
+11111011
+10000001
+11111011
+11111111
+NAME Corner Nine
+WAL true
+
+TIL p
+11111111
+11111011
+10000001
+11111011
+11001111
+10011000
+10111011
+11111011
+NAME Corner Ten
+WAL true
+
+TIL q
+11111011
+11111011
+00000011
+11111111
+11111011
+10000001
+11111011
+11111111
+NAME Corner Eleven
+WAL true
+
+TIL r
+11111111
+11011111
+10000001
+11011111
+11111111
+10011000
+11001011
+11111011
+NAME Corner Twelve
+WAL true
+
+TIL s
+11011111
+11011111
+11000000
+11111111
+11011111
+10000001
+11011111
+11111111
+NAME Corner Thirteen
+WAL true
+
+TIL t
+11111111
+11111111
+00010001
+11011011
+11010001
+11011011
+11010001
+11011111
+NAME Corner Fourteen
+WAL true
+
+TIL u
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+TIL v
+00000000
+00000000
+00001110
+00001111
+00111111
+00111111
+01111111
+01111111
+NAME Blood One
+
+TIL w
+01111111
+01111111
+01111111
+01111111
+00111111
+00011111
+00001110
+00000000
+NAME Blood Two
+
+TIL x
+11111000
+11111000
+11111000
+11110000
+11100000
+11100000
+00000000
+00000000
+NAME Blood Three
+
+TIL y
+00001111
+00000011
+00001111
+00000011
+00001111
+00000011
+00001111
+00000011
+>
+00000111
+00000001
+00000111
+00000001
+00000111
+00000001
+00000111
+00000001
+NAME Junk
+WAL true
+
+SPR 10
+00000000
+00000110
+01101000
+00111110
+00111110
+01101000
+00001000
+00001000
+NAME Corpse
+DLG h
+POS 6 8,10
+BLIP 1
+
+SPR A
+00011000
+00100100
+11111111
+11111111
+10111101
+10111100
+00100110
+01100000
+>
+00011000
+00100100
+11111111
+11111111
+10111101
+00111101
+01100100
+00000110
+POS 0 1,7
+
+SPR a
+11111111
+10000001
+10110101
+10000001
+11111111
+00011000
+00011000
+11111111
+>
+11111111
+10000001
+10000001
+10000001
+11111111
+00011000
+00011000
+11111111
+NAME Computer
+DLG 3
+POS 0 8,5
+BLIP 1
+
+SPR b
+00000000
+00000000
+00000000
+11101110
+00111011
+00000000
+00000000
+00000000
+>
+00000000
+00000000
+00000000
+00111011
+11101110
+00000000
+00000000
+00000000
+NAME Worm
+DLG 4
+POS 1 10,4
+BLIP 1
+
+SPR c
+00000000
+00000000
+00000000
+11111111
+01000010
+01000010
+01000010
+01000010
+NAME Table
+DLG a
+POS 1 8,13
+BLIP 1
+
+SPR d
+01000000
+01000000
+01000000
+01000000
+01000000
+01111100
+01000100
+01000100
+NAME Chair One
+POS 1 7,13
+
+SPR e
+00000010
+00000010
+00000010
+00000010
+00000010
+00111110
+00100010
+00100010
+NAME Chair Two
+POS 1 9,13
+
+SPR f
+00110000
+00110000
+11100010
+11110101
+11101000
+11100000
+11111000
+11111000
+>
+00110000
+00110000
+11100001
+11101010
+11110100
+11100000
+11111000
+11111000
+NAME Corpse
+DLG 7
+POS 3 11,3
+BLIP 1
+
+SPR g
+00000100
+00100100
+01111110
+01000010
+01111110
+01011010
+11011011
+10100101
+>
+00100000
+00100100
+01111110
+01000010
+01111110
+01011010
+11011011
+10100101
+NAME Robot
+DLG 8
+POS 3 4,3
+BLIP 1
+
+SPR h
+00010000
+00111000
+01111100
+11111110
+01111111
+00111110
+00011100
+00001000
+NAME Paper
+DLG 9
+POS 3 6,11
+BLIP 1
+
+SPR i
+00000000
+00000000
+00000100
+11101111
+11101111
+11101101
+11101111
+11111111
+NAME Head
+DLG c
+POS 8 8,7
+BLIP 1
+
+SPR j
+11111111
+10100101
+10011001
+10100101
+11111111
+00011000
+00011000
+11111111
+>
+11111111
+10000001
+10000001
+10000001
+11111111
+00011000
+00011000
+11111111
+NAME Computer Two
+DLG f
+POS 5 8,3
+BLIP 1
+
+SPR k
+01101110
+01001110
+01011010
+01110010
+01110110
+01111110
+01111110
+01111110
+DLG d
+POS 5 10,3
+BLIP 1
+
+SPR l
+01101110
+01001110
+01011010
+01110010
+01110110
+01111110
+01111110
+01111110
+NAME Chamber 1
+DLG d
+POS 5 12,3
+BLIP 1
+
+SPR m
+01101110
+01001110
+01011010
+01110010
+01110110
+01111110
+01111110
+01111110
+NAME Chamber 2
+DLG d
+POS 5 6,3
+BLIP 1
+
+SPR n
+01101110
+01001110
+01011010
+01110010
+01110110
+01111110
+01111110
+01111110
+NAME Chamber 3
+DLG d
+POS 5 4,3
+BLIP 1
+
+SPR o
+01101110
+01001110
+01011010
+01110010
+01110110
+01111110
+01111110
+01111110
+NAME Chamber 4
+DLG d
+POS 5 3,4
+BLIP 1
+
+SPR p
+01101110
+01001110
+01011010
+01110010
+01110110
+01111110
+01111110
+01111110
+NAME Chamber 5
+DLG d
+POS 5 3,6
+BLIP 1
+
+SPR q
+01101110
+01001110
+01011010
+01110010
+01110110
+01111110
+01111110
+01111110
+NAME Chamber 6
+DLG d
+BLIP 1
+
+SPR r
+01101110
+01001110
+01011010
+01110010
+01110110
+01111110
+01111110
+01111110
+NAME Chamber 7
+DLG d
+POS 5 3,10
+BLIP 1
+
+SPR s
+01101110
+01001110
+01011010
+01110010
+01110110
+01111110
+01111110
+01111110
+NAME Chamber 8
+DLG d
+POS 5 4,11
+BLIP 1
+
+SPR t
+01101110
+01001110
+01011010
+01110010
+01110110
+01111110
+01111110
+01111110
+NAME Chamber 9
+DLG d
+POS 5 6,11
+BLIP 1
+
+SPR u
+01101110
+01001110
+01011010
+01110010
+01110110
+01111110
+01111110
+01111110
+NAME Chamber 10
+DLG d
+POS 5 8,11
+BLIP 1
+
+SPR v
+01101110
+01001110
+01011010
+01110010
+01110110
+01111110
+01111110
+01111110
+NAME Chamber 11
+DLG d
+POS 5 13,4
+BLIP 1
+
+SPR w
+01101110
+01001110
+01011010
+01110010
+01110110
+01111110
+01111110
+01111110
+NAME Chamber 12
+DLG d
+POS 5 13,6
+BLIP 1
+
+SPR x
+01101110
+01001110
+01011010
+01110010
+01110110
+01111110
+01111110
+01111110
+NAME Chamber 13
+DLG d
+POS 5 13,8
+BLIP 1
+
+SPR y
+01101110
+01001110
+01011010
+01110010
+01110110
+01111110
+01111110
+01111110
+NAME Chamber 14
+DLG d
+POS 5 13,10
+BLIP 1
+
+SPR z
+11111111
+10011001
+11110101
+11011111
+11111111
+00011000
+00011000
+11111111
+>
+11111111
+10000001
+10000001
+10000001
+11111111
+00011000
+00011000
+11111111
+NAME Computer Three
+DLG g
+POS 6 12,4
+BLIP 1
+
+ITM 2
+00000100
+00000100
+00111100
+01001010
+01010110
+01001010
+00111100
+00101000
+>
+00000100
+00111100
+01001010
+01011110
+01001010
+00111100
+00101000
+00000000
+NAME Probe
+DLG e
+BLIP 2
+
+ITM 3
+00000100
+00000100
+00111100
+01001010
+01010110
+01001010
+00111100
+00101000
+>
+00000100
+00111100
+01001010
+01011110
+01001010
+00111100
+00101000
+00000000
+NAME SecondProbe
+DLG i
+BLIP 2
+
+DLG 3
+"""
+++++TERMINAL ONLINE++++
+++++CONTACTING TERRIS HIGH COMMAND++++{pg}++++CONTACT ESTABLISHED++++
+...Paladin Response Unit 443-556 do you copy?{pg}Assault Unit 08, is that you? You are the only life signature remaining.{pg}The rest of your unit died when attempting to connect to airlock 27. Some freak accident with the airtight doors. You are lucky to be alive.{pg}Genocide Protocol ED-6 will have to wait. You have no backup now and all your weapons are fried.{pg}Begin Scouting Protocol A6 until reinforcements arrive. Find out what went wrong in Space Hulk Artimes!{pg}There should be some terminals and probes that will tell you. The probes should also allow you access deeper into the facility.{pg}Good luck soldier, find out what this xeno threat is! This message will repeat in case you need to review this information.
+"""
+NAME Terminal One
+
+DLG 4
+It's some kind of worm.
+NAME Worm
+
+DLG 7
+A lifeless body leans against the wall. A worm pokes out of it.
+NAME Corpse dialog
+
+DLG 8
+Some kind of malfunctioning device. Everything on this ship is gone or destroyed.
+NAME Robot dialog
+
+DLG 9
+Some kind of report left on the ground.{pg}It goes on at length about some research experiment with a nearby native xenos species.
+NAME Paper dialog
+
+DLG a
+A table. Nothing is on it. Why does the place seem looted and empty?
+NAME Table dialog 1
+
+DLG b
+Suddenly, the dim lights of the Space Hulk go out.{pg}You wait for your damaged power armor to adjust to the darkness, but nothing happens.{pg}Then you see a pair of glowing eyes in front of you. Then another pair. And more. And more. And more.{pg}You will not be remembered.
+NAME ending 1
+
+DLG c
+It's a severed head. It's rather bloated and mutated, and the wound looks fresh...
+NAME Head
+
+DLG d
+An empty probe chamber.
+NAME Chamber
+
+DLG e
+You have acquired a security probe! If you have two, they should allow you access to the southern chambers.{pg}Looking at its datalogs, you watch as the probe patrols with a group of soldiers before you arrived.{pg}Eventually, the group is attacked by the xenos. Millions of worms come out of the vents, and mutated worm people attack from every direction. The probe retreated to this repair room.
+NAME Probe dialog
+
+DLG f
+++++ACTIVE PROBE COUNT: 2++++
+NAME Computer Two dialog
+
+DLG g
+This computer is heavily damaged. It seems someone was writing something on the terminal before it was smashed.{pg}It's hard to discern anything written on it, but it seems like a long, incoherent rant about the Space Hulk and how much the writer hates everyone on board.
+NAME Computer Three dialog
+
+DLG h
+This corpse seems to have dragged itself along the ground for a while, attempting to reach the probe.
+NAME corpse dialog
+
+DLG i
+You have acquired a security probe! If you have two, they should allow you access to the southern chambers.{pg}This probe seems to have been scouting the vents before the outbreak. Its datalogs show many hours of video of uncountable xeno hordes roaming the vents.
+NAME Probe 2 dialog
+
+DLG j
+"""
+{
+  - {item "Probe"} >= 1 ?
+    {property locked false}The probe opens the door!
+  - else ?
+    {property locked true}The door is locked. You need a probe.
+}
+"""
+NAME locked exit 1
+
+DLG k
+"""
+{
+  - {item "SecondProbe"} >= 1 ?
+    {property locked false}The probe opens the door!
+  - else ?
+    {property locked true}The door is locked. You need a probe.
+}
+"""
+NAME locked exit 2
+
+VAR a
+42
+
+TUNE 4
+2l,0,0,0,2s,0,0,0,2m,0,0,0,2s,0,0,0
+16r2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+2l,0,0,0,2s,0,0,0,2m,0,0,0,0,0,0,0
+16m2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+2l,0,0,0,2s,0,0,0,2m,0,0,0,2s,0,0,0
+16r2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+2l,0,0,0,2s,0,0,0,2m,0,0,0,0,0,0,0
+16m2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+>
+2m,0,0,0,2s,0,0,0,4l,0,0,0,4d5,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME Ambiance
+KEY C,D,E,F,G,A,B d,r,m,s,l
+TMP SLW
+SQR P4 P2
+ARP UP
+
+BLIP 1
+E5,B5,B5
+NAME meow
+ENV 40 99 4 185 138
+BEAT 61 115
+SQR P2
+
+BLIP 2
+D5,E5,D5
+NAME pick up key
+ENV 99 65 6 96 152
+BEAT 95 0
+SQR P4
+
+BLIP 3
+C#5,A5,F#5
+NAME pick up 1
+ENV 100 95 8 186 158
+BEAT 81 0
+SQR P8
+
